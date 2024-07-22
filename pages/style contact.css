@@ -1,0 +1,108 @@
+#header{ 
+    display: flex;
+    background-color: rgb(64, 204, 118);
+    /* background-color: burlywood; */
+height: 100px;
+}
+
+
+.header_logo{
+    width: 15%;
+    
+    /* background-color: antiquewhite; */
+
+}
+
+.nav_bar{ width: 30%;
+}
+
+ul{ margin-left: 10px;
+margin-top: 40px;
+margin-right: 20px;
+
+
+
+}
+li{
+text-decoration: none;
+color: black; 
+display: inline;
+margin-left: 20px;
+font-size: larger;
+
+}
+
+.header_heading{ 
+    width: 55%;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+/* background-color: aqua; */
+color: aliceblue;
+text-shadow: 2px 2px 2px;
+
+}
+
+h2{
+  font-size: 30px;  
+  background-color: antiquewhite;
+  height: 70px;margin-top:-7px;
+padding-top: 20px;
+padding-left: 20px;
+}
+
+.box_img{
+    display: flex;
+}
+#section{
+img{
+     border: 3px rgba(0, 128, 0, 0.801) solid;
+}
+}
+.box{
+    border: 3px rgba(0, 128, 0, 0.801) solid;
+    margin-left: 100px;
+    width: 700px;
+    padding-top: 50px;
+    padding-left: 30px;
+background-color: burlywood;
+}
+label{
+    margin-left: 20px;
+
+}
+input{
+    margin-top: 30px;
+    height: 25px;
+}
+textarea{
+    height: 40px;
+    margin-top: 30px;
+}
+select{
+    margin-left: 20px;
+    height: 30px;
+}
+.submit{
+    margin-left: 600px;
+margin-bottom: 30px;
+
+}
+
+
+#footer{
+    /* background-color: rgb(3, 175, 103); */
+background-color:burlywood;
+    height: 250px;
+    margin-top: 50px;
+}
+.btn{ 
+    display: flex;
+    width: 5x;
+    height: 30px;
+margin-left: 690px;
+padding-left: 50px;
+margin-top: 30px;
+
+}

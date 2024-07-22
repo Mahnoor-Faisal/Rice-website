@@ -1,0 +1,143 @@
+#header{ 
+    display: flex;
+    background-color: rgb(64, 204, 118);
+    /* background-color: burlywood; */
+height: 100px;
+}
+
+
+.header_logo{
+    width: 15%;
+    
+    /* background-color: antiquewhite; */
+
+}
+
+.nav_bar{ width: 30%;
+}
+
+ul{ margin-left: 10px;
+margin-top: 40px;
+margin-right: 20px;
+
+
+
+}
+li{
+text-decoration: none;
+color: black; 
+display: inline;
+margin-left: 20px;
+font-size: larger;
+
+}
+
+.header_heading{ 
+    width: 55%;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+/* background-color: aqua; */
+color: aliceblue;
+text-shadow: 2px 2px 2px;
+
+}
+.banner_img{
+
+    display: grid;
+}
+.banner{
+    display: flex;
+    background-color: rgb(205, 219, 231);
+}
+
+.box1{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid;
+    width: 70%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    
+}
+.product{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.text1{
+    margin-left: 30px;
+    margin-top: 50px;
+
+}
+.box2{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid;
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+
+    
+}
+.box3{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid;
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+.box4{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid;
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+.box5{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid;
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+.box6{
+    display: flex;
+    border: 1px rgb(70, 67, 67) solid; 
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+}
+.bessan_box{
+    display: flex;
+    border: 1px solid rgb(68, 65, 65);
+    width: 70%;
+    margin-left: 10px;
+}
+
+.text2{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.bessan{
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+#footer{
+    /* background-color: rgb(3, 175, 103); */
+background-color:burlywood;
+    height: 250px;
+}
+.btn{ 
+    display: flex;
+    width: 5x;
+    height: 30px;
+margin-left: 690px;
+padding-left: 50px;
+margin-top: 30px;
+
+}
